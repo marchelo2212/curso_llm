@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Cuál es la duración total del curso?",
+    "answer": "30 horas."
+  },
+  {
+    "question": "¿Qué nivel tiene el curso?",
+    "answer": "Nivel Avanzado."
+  },
+  {
+    "question": "¿Cuándo es la primera sesión del taller?",
+    "answer": "El miércoles 22 de octubre, de 4:00 p.m. a 7:00 p.m."
+  },
+  {
+    "question": "¿Quién imparte la primera sesión sobre 'Arquitecturas y APIs'?",
+    "answer": "Luis Daniel Benavides."
+  },
+  {
+    "question": "¿Qué se debe generar en la primera sesión?",
+    "answer": "Una Guía PDF con pasos de instalación y configuración + script de conexión a API."
+  },
+  {
+    "question": "¿Quién es el profesor del Módulo 3 'Automatización docente'?",
+    "answer": "Marcelo Sotaminga."
+  },
+  {
+    "question": "¿En qué fecha se ve la actividad 'Bot con RAG'?",
+    "answer": "El miércoles 29 de octubre."
+  },
+  {
+    "question": "¿La sesión de 'Bot con RAG' es una práctica guiada?",
+    "answer": "Sí, es una práctica guiada."
+  },
+  {
+    "question": "¿Qué material se debe generar para la actividad 'Bot con RAG'?",
+    "answer": "Un script o notebook con implementación básica de RAG y dataset de materiales del curso."
+  },
+  {
+    "question": "¿Qué plataforma se sugiere para el 'Chatbot con FAQ'?",
+    "answer": "Una plataforma libre, por ejemplo, Botpress."
+  },
+  {
+    "question": "¿Cuándo es la sesión de 'Calificación automática'?",
+    "answer": "El lunes 10 de noviembre, de 11:30 a.m. a 1:00 p.m."
+  },
+  {
+    "question": "¿Qué profesor imparte la sesión del 12 de noviembre?",
+    "answer": "Juan Carlos Correa."
+  },
+  {
+    "question": "¿Cuál es la actividad de la semana 4 (12 de noviembre)?",
+    "answer": "Versionado de material didáctico."
+  },
+  {
+    "question": "¿Qué tipo de actividad es el 'Versionado de material didáctico'?",
+    "answer": "Es un trabajo autónomo."
+  },
+  {
+    "question": "¿Cuál es el tema del Módulo 4?",
+    "answer": "Analítica de aprendizaje."
+  },
+  {
+    "question": "¿Cuándo se realiza la actividad 'Análisis de datos educativos'?",
+    "answer": "El miércoles 19 de noviembre."
+  },
+  {
+    "question": "¿Quién imparte el 'Modelo predictivo de riesgo'?",
+    "answer": "Javier Chaparro."
+  },
+  {
+    "question": "¿En cuántas sesiones se divide la actividad 'Modelo predictivo de riesgo'?",
+    "answer": "En dos sesiones: el lunes 24 de noviembre y el miércoles 26 de noviembre."
+  },
+  {
+    "question": "¿Cuándo inicia el 'Proyecto integrador'?",
+    "answer": "El lunes 01 de diciembre."
+  },
+  {
+    "question": "¿Qué tipo de actividad es el 'Proyecto integrador'?",
+    "answer": "Es un trabajo autónomo supervisado."
+  },
+  {
+    "question": "¿Quiénes supervisan el proyecto integrador?",
+    "answer": "Marcelo Sotaminga y Eduardo Carillo."
+  },
+  {
+    "question": "¿Qué se debe entregar para el proyecto integrador?",
+    "answer": "Un prototipo funcional en repositorio Git o carpeta compartida con documentación."
+  },
+  {
+    "question": "¿Cuándo es la presentación final?",
+    "answer": "El miércoles 10 de diciembre, de 4:00 p.m. a 7:00 p.m."
+  },
+  {
+    "question": "¿Qué formato tiene la presentación final?",
+    "answer": "Es una exposición."
+  },
+  {
+    "question": "¿Cuál es el entregable de la presentación final?",
+    "answer": "Una demo funcional más un documento de memoria técnica con objetivos, desarrollo y resultados."
+  }
+]
